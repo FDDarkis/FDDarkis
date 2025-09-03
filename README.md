@@ -1,33 +1,35 @@
-# 👋 Hi, I’m Fito (a.k.a. FDDarkis)
+# 👋 Hi, I’m Fito Damour 
 
-🚀 **Aspiring DevOps & Networking Administrator**  
-💻 Passionate about **cloud, automation, and IT infrastructure**  
-🌍 Based in Montréal, Canada  
-
----
-
-## 🛠️ Skills & Tools
-- **Cloud & Infrastructure**: AWS (EC2, S3, IAM), Docker, Proxmox, VMware ESXi  
-- **Automation & Scripting**: Bash, GitHub Actions, N8N, CI/CD pipelines  
-- **Networking**: Linux server administration, firewalls, monitoring, troubleshooting  
-- **Dev Tools**: VS Code, Git/GitHub, CLI, integrations  
-- **Learning**: Kubernetes, Terraform, observability (Grafana, Prometheus)  
+🔹 **DevOps | Network Administrator | IT Infrastructure Enthusiast**  
+🔹 Passionate about **automation, cloud solutions, and resilient infrastructures**  
+🔹 Always learning, building, and optimizing systems  
 
 ---
 
-## 📚 Current Focus
-- Mastering **Networking Administration & DevOps pipelines**  
-- Practicing **CI/CD automation** on personal projects  
-- Exploring **cloud-native solutions** for healthcare & community organizations  
+## 🛠️ Skills & Technologies
+- **Cloud & Virtualization**: AWS (EC2, S3, IAM), Proxmox, VMware ESXi, Docker, Kubernetes (learning)  
+- **Automation & CI/CD**: GitHub Actions, N8N, Bash scripting, Terraform (in progress)  
+- **Networking & Systems**: Linux administration, firewalls, routing, monitoring, troubleshooting  
+- **Observability & Tools**: Grafana, Prometheus, logging, system monitoring  
+- **Development & Dev Tools**: Git/GitHub, GitLab, VS Code, APIs, WordPress DevOps pipelines  
+- **Collaboration**: Monday.com, Jotform, Microsoft/Google ecosystem integrations  
 
 ---
 
-## 🤝 Collaboration
-I’m open to collaborating on:
-- 🏗️ **Open-source DevOps projects**  
-- ⚙️ **Infrastructure automation**  
-- 🌐 **WordPress & cloud hosting optimizations**  
-- 📊 **Digital transformation projects** (healthcare, education, community)  
+## 📚 What I’m Currently Working On
+- Building **CI/CD pipelines** and experimenting with **GitHub Actions**  
+- Learning **infrastructure as code (IaC)** and **container orchestration**  
+- Designing **network & IT infrastructure projects**  
+- Exploring **automation agents and AI-powered DevOps tools**  
+
+---
+
+## 🤝 Open to Collaborate On
+- 🏗️ DevOps projects (automation, CI/CD, cloud-native)  
+- 🌐 Networking & infrastructure optimization  
+- ⚙️ IT system administration and monitoring  
+- 📊 Digital transformation & cloud adoption initiatives  
+ 
 
 ---
 
